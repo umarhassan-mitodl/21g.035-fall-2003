@@ -4,6 +4,8 @@ description: This resource contains information regarding Japanese Hip-Hop.
 file: /courses/21g-035-topics-in-culture-and-globalization-fall-2003/b3aeff663537127696ab681b3b8bc3f4_MIT21G_035F03_condry_jhh2.pdf
 file_size: 251001
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
